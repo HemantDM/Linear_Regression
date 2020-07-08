@@ -1,2 +1,2 @@
 # Linear_Regression
-Linear regression usingpython
+Linear regression using python
